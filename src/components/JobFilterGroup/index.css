@@ -1,0 +1,40 @@
+.job-filter-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 15px;
+}
+.employer-type-heading {
+  color: #fff;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 15px;
+  margin-top: 30px;
+}
+
+.employee-type-list {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.type-salary-container {
+  display: flex;
+  flex-direction: column;
+}
+.checkbox-list-items {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  padding-bottom: 20px;
+}
+.check-label {
+  color: #ffffff;
+  margin-left: 10px;
+  font-size: 14px;
+}
+.hr-line {
+  width: 100%;
+  border: 1px solid #7e858e;
+}
